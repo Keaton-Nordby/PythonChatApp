@@ -1,29 +1,41 @@
-# 🧠 Real-time Chat App
+# 🧠 Real-Time Chat App
 
-A simple real-time chat application built with **Python**, **Flask**, **Socket.IO**, **JavaScript**, **HTML**, and **CSS**. This project demonstrates basic real-time functionality like username updates, user join/leave feedback, and group messaging.
+A lightweight and responsive real-time chat application built using **Python**, **Flask**, **Socket.IO**, **JavaScript**, **HTML**, and **CSS**. This project demonstrates the core principles of real-time web communication, user interaction, and event-driven development.
 
 ---
 
-## 🔧 Features
+## ✨ Features
 
-- ✅ Update your username live
-- ✅ Real-time messaging between users
-- ✅ Notifications when users join or leave the chat
-- ✅ Simple, clean UI with CSS styling
-- ✅ Built using Flask and Socket.IO
+- ✅ **Live Username Updates** – Change your display name on the fly.
+- ✅ **Real-Time Messaging** – Instant group communication between connected users.
+- ✅ **User Presence Feedback** – Get notified when users join or leave the chat.
+- ✅ **Clean & Minimal UI** – Simple interface with responsive CSS styling.
+- ✅ **WebSocket-Powered** – Built using Flask and Socket.IO for real-time capabilities.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Backend**: Python, Flask, Socket.IO
-- **Frontend**: HTML, CSS, JavaScript
+### 🔙 Backend
+- **Python**
+- **Flask**
+- **Flask-SocketIO**
+
+### 🎨 Frontend
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ---
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+### 📦 Installation
+
+Follow these steps to get your development environment set up and running:
+
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Keaton-Nordby/realtime-chat-app.git
    cd realtime-chat-app
