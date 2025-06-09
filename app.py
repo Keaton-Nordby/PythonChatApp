@@ -5,7 +5,7 @@ import random
 app = Flask(__name__)
 socketio = SocketIO(app)
 
-# python dictionary, stores the connected users, key is socketid value is the username and avatar url
+# python dictionary, stores the connected users, key is socketid value is the username and avatar url users
 users = {}
 
 @app.route('/')
